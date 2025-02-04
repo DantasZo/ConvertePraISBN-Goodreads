@@ -37,6 +37,7 @@ string searchUrl = "https://www.cblservicos.org.br/isbn/pesquisa/";
 
 ## 💡 Dicas Importantes
 - **⚠️ Mantenha o ChromeDriver atualizado** (versão deve bater com seu Chrome)
+- ⚠️ Infelizmente como alguns livros possuem mais de um ISBN registrado, a taxa de aproveitamento na hora de importação do goodreads beira 80%, ainda não sei como resolver isso, aceito sugestões.
 - **⏳ Intervalos de delay** podem precisar de ajuste conforme conexão
 - **📌 Adicione a coluna 'Shelves'** caso esteja importando os livros que você pretende ler
 - **💌 Formate o CSV** com os campos específicos conforme a necessidade
